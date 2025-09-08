@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aarohi 👋
 
-<!--
-**AarohiAnalyzes/AarohiAnalyzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **aspiring Data Scientist** exploring the world of **Machine Learning, Python, and Data Analytics**.  
+I love turning data into insights and learning new tools every day.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Programming Languages:** Python, SQL, R
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, R Studio, Knime  
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning & Deep Learning   
+- Python libraries for Data Science 
+
+---
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/aarohi-mistry-715713219)  
+- Email: aarohimistry1106@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy exploring datasets, learning AI concepts, and building projects that help solve real-world problems. 🚀
+
