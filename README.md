@@ -10,7 +10,7 @@ I love turning data into insights and learning new tools every day.
 - **Programming Languages:** Python, SQL, R
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn, Regression, Classification, Clustering  
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, R Studio, Knime  
+- **Tools & Platforms:** GitHub, Jupyter Notebook, R Studio, Knime, OpenRefine 
 
 ---
 
