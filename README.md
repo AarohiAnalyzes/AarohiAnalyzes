@@ -17,7 +17,8 @@ I love turning data into insights and learning new tools every day.
 ## 🌱 Currently Learning
 
 - Machine Learning & Deep Learning   
-- Python libraries for Data Science 
+- Python libraries for Data Science
+- MongoDB
 
 ---
 
