@@ -1,7 +1,7 @@
 # Hi, I'm Aarohi 👋
 
 I'm an **aspiring Data Scientist** exploring the world of **Machine Learning, Python, and Data Analytics**.  
-I love turning data into insights and learning new tools every day.  
+I love turning data into insights and learning new tools.  
 
 ---
 
